@@ -6,7 +6,8 @@
 
 ## 📸 Captura de Tela
 
-![Screenshot do Nerd Garimpador](https://drive.google.com/uc?id=1XRIM4biTAwpJbZBTgwyuTLtM19HC4d58)
+![Screenshot do Nerd Garimpador]([https://drive.google.com/uc?id=1XRIM4biTAwpJbZBTgwyuTLtM19HC4d58](https://drive.google.com/uc?export=view&id=1yEXcnR9NgRu81Ms_u4P1zOczOr0cPcBr
+)
 
 ---
 
