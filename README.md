@@ -6,7 +6,7 @@
 
 ## 📸 Captura de Tela
 
-![Screenshot do Nerd Garimpador]((https://drive.google.com/uc?export=view&id=1yEXcnR9NgRu81Ms_u4P1zOczOr0cPcBr)
+![Screenshot do Nerd Garimpador](https://drive.google.com/uc?export=view&id=1yEXcnR9NgRu81Ms_u4P1zOczOr0cPcBr)
 
 ---
 
@@ -25,7 +25,7 @@
 
 O aplicativo já está compilado em `.exe`. Basta fazer o download no link abaixo:
 
-🔗 [Baixar Executável](https://www.mediafire.com/file/duejv2d10ldcehh/Nerd_G.rar/file)
+🔗 [Baixar Executável](https://www.mediafire.com/file/prihv3fez88p3i0/Garimpador_nerd.rar/file)
 
 ---
 
